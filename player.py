@@ -6,6 +6,7 @@ from constants import (PLAYER_RADIUS,
                        )
 import pygame
 
+
 class Player(CircleShape):
 
     def __init__(self, x, y):
